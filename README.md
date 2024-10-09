@@ -4,10 +4,12 @@
 ## Screenshots
 
 ### Main Window
-![Main Window](images/main_window.png)
+![Main Window](images/main_window.jpg)
 
 ### Chat View
-![Chat View](images/chat_view.png)
+![Chat View](images/chat_window.jpg)
+
+
 **Telegram Single-Session Chat Viewer** is a GUI application built using PyQt5 that allows users to interact with their Telegram chats directly through **locally stored session files** created by **Pyrogram**. The app enables users to view, manage, and send messages from their Telegram chats without relying on official web or mobile clients. The use of **Pyrogram sessions** ensures that the app operates securely and independently of other Telegram interfaces.
 
 ### Key Features
