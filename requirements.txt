@@ -1,0 +1,12 @@
+click==8.1.7
+colorama==0.4.6
+pyaes==1.6.1
+PyQt5==5.15.9
+pyqt5-plugins==5.15.9.2.3
+PyQt5-Qt5==5.15.2
+pyqt5-tools==5.15.9.3.3
+PyQt5_sip==12.15.0
+Pyrogram==2.0.106
+PySocks==1.7.1
+qt5-applications==5.15.2.2.3
+TgCrypto==1.2.5
