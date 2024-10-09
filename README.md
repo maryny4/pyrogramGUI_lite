@@ -50,7 +50,7 @@ The core functionality of this app revolves around **Pyrogram session files**, w
 
 5. **Run the application**:
    ```bash
-   python telegram_app.py
+   python main.py
    ```
 
 ### Main Interface Components
