@@ -33,6 +33,7 @@ The core functionality of this app revolves around **Pyrogram session files**, w
 - **TelegramClientThread**: Custom threading to handle asynchronous data loading from **Pyrogram sessions** without freezing the main interface.
 
 ### Installation and Setup
+1.**USE PYTHON 3.10 
 
 1. **Clone the repository** (if applicable) or download the source files.
    
